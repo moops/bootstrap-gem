@@ -1,6 +1,6 @@
 = bootstrap-gem
 
-Description goes here.
+Nothing here yet.
 
 == Contributing to bootstrap-gem
  
